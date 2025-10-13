@@ -7,7 +7,7 @@ p = 8   #设置画笔粗细
 turtle.pensize(p) #初始化画笔粗细
 
 #以黑色圆环作为坐标（0,0）
-#第一层，黑色
+#第一层，黑色，绘画起始位置坐标（r,0)
 turtle.penup()
 turtle.goto(r,0)
 turtle.pendown()
