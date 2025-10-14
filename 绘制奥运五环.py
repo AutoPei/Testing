@@ -43,7 +43,7 @@ turtle.pendown()
 turtle.color('green')
 turtle.circle(r)
 
-#增加方框
+#增加方框，离圆环的距离为g1
 turtle.penup()
 turtle.goto(-1*(3*r+g+g1),r+g1)
 turtle.pendown()
