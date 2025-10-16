@@ -1,6 +1,7 @@
-import turtle
+x = False
+y = 30
 
-t = turtle.Pen()
-for x in range(360):
-    t.forward(x)
-    t.left(59)
+a =10
+
+a = not x
+print(a)
